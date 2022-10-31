@@ -1,0 +1,8 @@
+C:\Users\201900008220\Documents\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\201900008220\Documents\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\201900008220\Documents\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\201900008220\Documents\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.csproj.AssemblyReference.cache
+C:\Users\201900008220\Documents\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.csproj.SuggestedBindingRedirects.cache
+C:\Users\201900008220\Documents\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\201900008220\Documents\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.exe
+C:\Users\201900008220\Documents\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.pdb

@@ -1,0 +1,8 @@
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Builder\bin\Debug\Builder.exe.config
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Builder\bin\Debug\Builder.exe
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Builder\bin\Debug\Builder.pdb
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.exe
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.pdb

@@ -1,0 +1,16 @@
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\bin\Debug\Facade.exe.config
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\bin\Debug\Facade.exe
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\bin\Debug\Facade.pdb
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
+C:\Users\vini7\Downloads\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb
+C:\Users\vini7\OneDrive\Documentos\Repositórios Git\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Facade\bin\Debug\Facade.exe.config
+C:\Users\vini7\OneDrive\Documentos\Repositórios Git\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Facade\bin\Debug\Facade.exe
+C:\Users\vini7\OneDrive\Documentos\Repositórios Git\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Facade\bin\Debug\Facade.pdb
+C:\Users\vini7\OneDrive\Documentos\Repositórios Git\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\vini7\OneDrive\Documentos\Repositórios Git\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\vini7\OneDrive\Documentos\Repositórios Git\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\vini7\OneDrive\Documentos\Repositórios Git\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
+C:\Users\vini7\OneDrive\Documentos\Repositórios Git\PadroesProjeto-CSharp\PadroesProjeto c#\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb

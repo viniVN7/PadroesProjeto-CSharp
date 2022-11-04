@@ -36,6 +36,21 @@ namespace Observer.RealWorld
             ibm.Price = 120.75;
 
 
+            // Create Google stock and attach investors
+            var google = new Google("Google", 150.00);
+
+            google.Attach(new Investor("Vinícius"));
+            google.Attach(new Investor("Maria"));
+
+            // Fluctuating prices will notify investors
+
+            google.Price = 150.15;
+
+            google.Price = 151.05;
+
+            google.Price = 150.10;
+
+
             // Wait for user
 
             Console.ReadKey();
@@ -123,6 +138,19 @@ namespace Observer.RealWorld
         // Constructor
 
         public IBM(string symbol, double price)
+            : base(symbol, price)
+        {
+        }
+    }
+
+    /// <summary>
+    /// The 'ConcreteSubject' class
+    /// </summary>
+    internal class Google : Stock
+    {
+        // Constructor
+
+        public Google(string symbol, double price)
             : base(symbol, price)
         {
         }

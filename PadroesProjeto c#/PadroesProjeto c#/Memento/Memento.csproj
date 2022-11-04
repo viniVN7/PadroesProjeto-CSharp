@@ -37,7 +37,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Memento.Structural.MainApp</StartupObject>
+    <StartupObject>Memento.RealWorld.MainApp</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

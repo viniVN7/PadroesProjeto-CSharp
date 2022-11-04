@@ -92,21 +92,21 @@ namespace Interpreter.RealWorld
 
             if (context.Input.StartsWith(Nine()))
             {
-                context.Output += (9*Multiplier());
+                context.Output += (9 * Multiplier());
 
                 context.Input = context.Input.Substring(2);
             }
 
             else if (context.Input.StartsWith(Four()))
             {
-                context.Output += (4*Multiplier());
+                context.Output += (4 * Multiplier());
 
                 context.Input = context.Input.Substring(2);
             }
 
             else if (context.Input.StartsWith(Five()))
             {
-                context.Output += (5*Multiplier());
+                context.Output += (5 * Multiplier());
 
                 context.Input = context.Input.Substring(1);
             }
@@ -114,7 +114,7 @@ namespace Interpreter.RealWorld
 
             while (context.Input.StartsWith(One()))
             {
-                context.Output += (1*Multiplier());
+                context.Output += (1 * Multiplier());
 
                 context.Input = context.Input.Substring(1);
             }

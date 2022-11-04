@@ -21,6 +21,8 @@ namespace Memento.RealWorld
 
             s.Phone = "(412) 256-0990";
 
+            s.Email = "email1@email.com";
+
             s.Budget = 25000.0;
 
 
@@ -29,13 +31,15 @@ namespace Memento.RealWorld
             var m = new ProspectMemory();
 
             s.SaveMemento(m.Memento);
-            
+
 
             // Continue changing originator
 
             s.Name = "Leo Welch";
 
             s.Phone = "(310) 209-7111";
+
+            s.Email = "email2@email.com";
 
             s.Budget = 1000000.0;
 
@@ -63,7 +67,7 @@ namespace Memento.RealWorld
     {
         private double _budget;
         private string _name;
-
+        private string _email;
         private string _phone;
 
 
@@ -96,6 +100,19 @@ namespace Memento.RealWorld
             }
         }
 
+        // Gets or sets e-mail
+        public string Email
+        {
+            get { return _email; }
+
+            set
+            {
+                _email = value;
+
+                Console.WriteLine("E-mail: " + _email);
+            }
+        }
+
 
         // Gets or sets budget
 
@@ -118,14 +135,14 @@ namespace Memento.RealWorld
         {
             Console.WriteLine("\nSaving state --\n");
 
-            var next = new Memento(_name, _phone, _budget);
+            var next = new Memento(_name, _phone, _email, _budget);
             atual.NextMemento = next;
             next.PreviousMemento = atual;
 
             return next;
         }
 
-        public Memento Undo(Memento atual )
+        public Memento Undo(Memento atual)
         {
             return atual.PreviousMemento;
         }
@@ -145,6 +162,8 @@ namespace Memento.RealWorld
 
             Phone = memento.Phone;
 
+            Email = memento.Email;
+
             Budget = memento.Budget;
         }
     }
@@ -157,11 +176,13 @@ namespace Memento.RealWorld
     {
         // Constructor
 
-        public Memento(string name, string phone, double budget)
+        public Memento(string name, string phone, string email, double budget)
         {
             Name = name;
 
             Phone = phone;
+
+            Email = email;
 
             Budget = budget;
         }
@@ -176,6 +197,8 @@ namespace Memento.RealWorld
 
         public string Phone { get; set; }
 
+        // Gets or set e-mail
+        public string Email { get; set; }
 
         // Gets or sets budget
 
